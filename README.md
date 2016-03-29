@@ -15,4 +15,4 @@ In this R code what I have:
 
 **Simple... on R prompt or in your code, use the below line:**
 
-source("https://raw.githubusercontent.com/imanojkumar/MyFunctions1/master/ChageDirectory.R")
+source("https://raw.githubusercontent.com/imanojkumar/MyFunctions1/master/ChangeDirectory.R")
