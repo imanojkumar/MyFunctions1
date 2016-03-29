@@ -5,7 +5,7 @@ In this R code what I have:
 
 1. **User gives an Input**
 
-    **Enter Path to Directory You want to set as Default (use backslash e.g. "E:/MyDirectory") : **
+    Enter Path to Directory You want to set as Default (use backslash e.g. "E:/MyDirectory") :
 
 2. **This input is stored into a character vector.**
 
